@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>dummyp1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dump1</name>
+	<name>dummyp1</name>
 	<description>jenkinsDummy Project</description>
 	<properties>
 		<java.version>1.8</java.version>
